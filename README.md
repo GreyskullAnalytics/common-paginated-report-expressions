@@ -28,6 +28,3 @@ A reference library of common expressions for Power BI Paginated Reports (SSRS),
 
 Found an expression that deserves a place here? Feel free to open a PR or raise an issue.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
