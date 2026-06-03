@@ -1,3 +1,5 @@
+<img src="Assets/greyskull-analytics-logo.png" align="right" alt="Greyskull Analytics" width="150">
+
 # Paginated Reports - Expression Reference
 
 > **A free resource by [Greyskull Analytics](https://www.greyskullanalytics.com)**  

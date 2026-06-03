@@ -1,3 +1,4 @@
+<img src="../Assets/greyskull-analytics-logo.png" align="right" alt="Greyskull Analytics" width="150">
 
 ## Common Paginated Report Date Expressions
 
