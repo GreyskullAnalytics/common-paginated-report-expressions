@@ -20,9 +20,15 @@ A reference library of common expressions for Power BI Paginated Reports (SSRS),
 
 ## About Greyskull Analytics
 
-[Greyskull Analytics](https://www.greyskullanalytics.com) is a data and analytics consultancy focused on building data solutions that make businesses better. Free tools and resources for the Power BI community are shared here regularly — if something saves you time, support would be much appreciated.
+[Greyskull Analytics](https://www.greyskullanalytics.com) is a data and analytics consultancy focused on building data solutions that make businesses better. Free tools and resources for the data community are shared here regularly — if something saves you time, support would be much appreciated.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23F1497A?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/greyskullanalytics)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%235f00c5?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/greyskullanalytics)
+
+---
+
+## Contact
+
+[support@greyskullanalytics.com](mailto:support@greyskullanalytics.com)
 
 ---
 
